@@ -3,7 +3,7 @@
 - Çocukluğumdan beridir uğraştığım Linux ortamları ve Windows ortamlarında kendimi geliştirdim.
 - Ufak çaplı BCHackTool, RequiredChan bash scriptlerini yazdım.
 - Yazılım konusunda bilgili olduğum diller ise şunlar: Bash , Java , C , Python
-- Ayrıca Siber Günvelik ile uğraşmaktayım.
+- Ayrıca Siber Günvelik ve Android Develop ile uğraşmaktayım.
 
 ```sh
 Bych4n.github.io
