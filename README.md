@@ -1,5 +1,5 @@
 # Merhaba ✨
-- Ben Hüseyin, Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı birinci sınıf öğrencisiyim.
+- Ben Hüseyin, Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı ikinci sınıf öğrencisiyim.
 - Çocukluğumdan beridir uğraştığım Linux ortamları ve Windows ortamlarında kendimi geliştirdim.
 - Ufak çaplı BCHackTool, RequiredChan bash scriptlerini yazdım.
 - Yazılım konusunda bilgili olduğum diller ise şunlar: Bash , Java , C , Python
