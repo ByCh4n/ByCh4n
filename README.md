@@ -5,12 +5,7 @@
 - Yazılım konusunda bilgili olduğum diller ise şunlar: Bash , Python
 - Ayrıca Siber Günvelik ile uğraşmaktayım.
 
-```sh
-Bych4n.github.io
-```
-
 | Social Media | Link |
 | ------ | ------ |
 | Instagram | https://www.instagram.com/huseyinaltns/ |
-| Twitter | https://twitter.com/HuseyinAltns |
 
