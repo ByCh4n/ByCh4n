@@ -2,8 +2,8 @@
 - Ben Hüseyin, Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı ikinci sınıf öğrencisiyim.
 - Çocukluğumdan beridir uğraştığım Linux ortamları ve Windows ortamlarında kendimi geliştirdim.
 - Ufak çaplı BCHackTool, RequiredChan bash scriptlerini yazdım.
-- Yazılım konusunda bilgili olduğum diller ise şunlar: Bash , Java , C , Python
-- Ayrıca Siber Günvelik ve Android Develop ile uğraşmaktayım.
+- Yazılım konusunda bilgili olduğum diller ise şunlar: Bash , Python
+- Ayrıca Siber Günvelik ile uğraşmaktayım.
 
 ```sh
 Bych4n.github.io
