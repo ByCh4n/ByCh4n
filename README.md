@@ -1,5 +1,5 @@
 # Merhaba ✨
-- Ben Hüseyin, Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı ikinci sınıf öğrencisiyim.
+- Ben Hüseyin, Kütahya Dumlupınar Üniversitesi Bilgisayar Programcılığı mezunuyum.
 - Çocukluğumdan beridir uğraştığım Linux ortamları ve Windows ortamlarında kendimi geliştirdim.
 - Ufak çaplı BCHackTool, RequiredChan bash scriptlerini yazdım.
 - Yazılım konusunda bilgili olduğum diller ise şunlar: Bash , Python
@@ -7,5 +7,6 @@
 
 | Social Media | Link |
 | ------ | ------ |
-| Instagram | https://www.instagram.com/huseyinaltns/ |
+| Instagram | https://www.instagram.com/huseyinaltns/   |
+| Linkedin  | https://www.linkedin.com/in/huseyinaltns/ |
 
