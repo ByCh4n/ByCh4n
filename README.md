@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am CTI Technical Team Leader at LeakSonar.<br>I have worked and continue to work in the following areas:<br><br>- Cyber Security<br>- Cyber Threat Intelligence<br>- External Attack Surface Management<br>- Web Application Security<br>- Red Team Pentester<br>- Bash Scripting
+Hello, I am Threat Intelligence Analyst.<br>I have worked and continue to work in the following areas:<br><br>- Cyber Security<br>- Cyber Threat Intelligence<br>- External Attack Surface Management<br>- Web Application Security<br>- Red Team Pentester<br>- Bash Scripting
 
 
 ## 🌐 Socials:
